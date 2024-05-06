@@ -14,7 +14,8 @@ A classe Java denominada TesteCaixaBranca tem como objetivo a verificação de u
 ## Planilha de Teste Estático
 
 ## Grafo de Fluxo
-![Grafo de Fluxo](https://github.com/Ale-Sampaio/TesteCaixaBranca/assets/121987957/b69c7d2c-a366-495c-bd23-87c69d47a794)
+![Grafo de Fluxo](https://github.com/Ale-Sampaio/ExercicioCaixaBranca/assets/121987957/55bc43f0-f5bc-4a72-89d3-b1997e4c05e5)
+
 
 ## Nodos identificados:
 #### 1-Inicio
