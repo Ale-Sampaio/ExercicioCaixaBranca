@@ -13,3 +13,54 @@ A classe Java denominada TesteCaixaBranca tem como objetivo a verificação de u
 #### 4- Tratamento vazio de exceções: as exceções capturadas não estão sendo tratadas ou registradas de forma adequada.
 ## Planilha de Teste Estático
 
+## Grafo de Fluxo
+![Grafo de Fluxo](https://github.com/Ale-Sampaio/TesteCaixaBranca/assets/121987957/b69c7d2c-a366-495c-bd23-87c69d47a794)
+
+## Nodos identificados:
+#### 1-Inicio
+#### 2-Conectar DB
+#### 3-Driver Manager
+#### 4-Verificar Usuario
+#### 5-Montar SQL Statement
+#### 6-Executar Consulta
+#### 7-Verificar Resultado
+#### 8-Fim
+
+## Cálculo da Complexidade Ciclomática
+#### V(G) = complexidade ciclomática.
+#### E = número de arestas no grafo.
+#### N = número de nós no grafo.
+#### P = número de componentes conexos (1 para um único grafo).
+#### V(G)=E−N+2P
+#### V(G)=8−8+2(1)=2
+
+## Caminhos Possiveis
+#### 1:
+1-2-3-4-5-6-7-8
+#### 2:
+1-2-8
+#### 3:
+1-2-3-4-8
+#### 4:
+1-2-3-4-5-8
+#### 5:
+1-2-3-4-5-6-8
+#### 6:
+1-2-3-4-5-6-7-8
+#### 7:
+1-2-3-4-5-6-7-2-3-4-5-6-7-8
+#### 8:
+1-2-3-4-5-6-7-2-3-4-8
+#### 9:
+1-2-3-4-5-6-7-2-3-4-5-8
+#### 10:
+1-2-3-4-5-6-7-2-3-4-5-6-8
+#### 11:
+1-2-3-4-5-6-7-2-3-4-5-6-7-8
+
+
+
+
+
+
+
