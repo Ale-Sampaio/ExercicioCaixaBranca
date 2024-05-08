@@ -12,4 +12,5 @@ A classe Java denominada TesteCaixaBranca tem como objetivo a verificação de u
 #### 3 -Gerenciamento inadequado de recursos: os recursos como Connection, Statement e ResultSet não estão sendo fechados corretamente após o uso.
 #### 4- Tratamento vazio de exceções: as exceções capturadas não estão sendo tratadas ou registradas de forma adequada.
 ## Planilha de Teste Estático
+![Planilha Teste Estatico](https://github.com/Ale-Sampaio/ExercicioCaixaBranca/assets/121987957/e88f2d87-3862-47a8-bf0d-07acb748c4a3)
 
